@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo.AI](https://app.leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,21 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
+|  título  | Preciso que você sugira 10 títulos criativos para um eBook católico que abordará as principais congregações religiosas, como os agostinianos, dominicanos, jesuítas, entre outras. O conteúdo será apresentado de forma sucinta e acessível, pensado especialmente para pessoas que estão começando a ter contato com a fé. O eBook seguirá a estrutura narrativa da Jornada do Herói, de modo que os títulos devem refletir tanto a espiritualidade quanto o caráter inspirador dessa caminhada. Busque criar títulos curtos e cativantes.                                                        |
+| conteúdo | 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Epic Catholic illustration of several ancient religious banners (estandartes) waving under golden sunlight along a sacred medieval road. Each banner represents a different Catholic religious order, with distinct symbolic elements such as a black and white cross, a tau cross with cords, the IHS Christogram, a mountain with stars, and an open monastic rule with a cross. A pilgrim walks the path toward a radiant cathedral on the horizon, symbolizing a spiritual journey. Mystical, inspiring atmosphere, clouds opening to reveal heavenly light. Highly detailed, oil painting style, dramatic lighting, textured, solemn and uplifting, a blend of classical sacred art and fantasy realism. No text.
+
+ |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo.AI
 
 ## 📚 Materiais
 
